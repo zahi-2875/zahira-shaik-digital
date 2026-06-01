@@ -43,7 +43,7 @@ export function Contact() {
             </a>
           </div>
           <div className="mt-8 text-xs uppercase tracking-[0.22em] text-muted-foreground">
-            Globally available · Remote-first · Mission-driven
+            Globally available · Mission-driven
           </div>
         </div>
       </Reveal>
